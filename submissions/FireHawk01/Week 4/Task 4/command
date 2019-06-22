@@ -1,0 +1,1 @@
+sudo docker run -i -t ubuntu:14.04 /bin/bash
