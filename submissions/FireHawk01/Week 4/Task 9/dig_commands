@@ -1,0 +1,8 @@
+dig iiita.ac.in
+dig iiita.ac.in +short
+dig iiita.ac.in MX
+dig iiita.ac.in SOA
+dig iiita.ac.in TTL
+dig iiita.ac.in +nocomments +noquestion +noauthority +noadditional +nostats
+dig iiita.ac.in ANY +noall +answer
+dig -x 14.139.236.214  +short
