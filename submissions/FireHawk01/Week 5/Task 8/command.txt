@@ -1,0 +1,3 @@
+This image is a gif file and we can split all its frames into different PNG files using ImageMagick tool. 
+One of these files contains the flag.
+Command used : convert captain.gif captain.png
