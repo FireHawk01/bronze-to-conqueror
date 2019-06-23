@@ -1,0 +1,3 @@
+In this image we used exiftool to extract the metadata of the image and we found a string named as "PassPhrase:y0uc4nts33m3".
+It gives us a hint that steghide must be used here to hide the data. After running the steghide extract command and entering the
+above password we get the flag n00b2pro{i_ar_hiding_u_kant_c_mee}.
